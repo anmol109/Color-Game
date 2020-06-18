@@ -1,0 +1,14 @@
+body{
+	font-family: "Montserrat", "Avenir";
+	background-color: #00CCCC;
+	color-white;
+	font-weight: 700;
+}
+h1{
+	font-size: 60px;
+	color: steelblue;
+}
+li{
+	font-size: 25px;
+	color: white;
+}
